@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karunakar Chavadam</h1>
-<h3 align="center">I am a backend developer with 1.6 years of experience in Python and Django, along with expertise in Selenium automation for testing. I also have hands-on knowledge of frontend development, enabling me to work on full-stack applications.</h3>
+<h3 align="center">I am a backend developer with 1.8 years of experience in Python and Django, along with expertise in Selenium automation for testing. I also have hands-on knowledge of frontend development, enabling me to work on full-stack applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karunakar20&label=Profile%20views&color=0e75b6&style=flat" alt="karunakar20" /> </p>
 
